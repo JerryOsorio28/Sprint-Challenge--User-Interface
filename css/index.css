@@ -58,14 +58,12 @@ html, body {
     margin: auto;
 }
 
-
 header {
     display: flex;
     flex-wrap: wrap;
     width: auto;
     align-items: baseline;
     margin-bottom: 5%;
-
 }
 
 a {
@@ -83,8 +81,6 @@ a {
 nav {
     width: 75%;
 }
-
-
 
 .banner {
     width: 880px;

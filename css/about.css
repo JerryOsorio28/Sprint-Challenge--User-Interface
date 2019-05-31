@@ -73,7 +73,6 @@ header {
     width: auto;
     align-items: baseline;
     margin-bottom: 5%;
-
 }
 
 a {
@@ -103,7 +102,6 @@ nav {
     padding-top: 0px;
 }
 
-
 .middleContainer {
     display: flex;
     flex-wrap: wrap;
@@ -112,7 +110,6 @@ nav {
     border-top: 2px solid black;
     padding-top: 40px;
     height: 900px;
-    
 }
 
 .middleContainer div {
@@ -137,6 +134,7 @@ button {
     padding-bottom: 10px;    
 
 }
+
 .bottom {
     display: flex;
     flex-wrap: wrap;
@@ -144,7 +142,6 @@ button {
     padding: 25px;
     padding-top: 0px;
     margin-top: 40px;
-    
 }
 
 footer {
